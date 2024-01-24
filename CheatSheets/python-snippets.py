@@ -13,7 +13,7 @@ import time
 # time script execution
 starttime = time.time()
 # insert code here
-print("This code took",time.time()-starttime,"seconds to run."
+print("This code took",time.time()-starttime,"seconds to run.")
 
 # reading files to pandas dataframes (more on how to use them: https://pandas.pydata.org/docs/reference/frame.html)
 csv_file = pd.read_csv("filename.csv",delimiter=None, header='infer', names=[name,of,each,column], index_col=None, usecols=None, skiprows=None, skipfooter=0, nrows=None, skip_blank_lines=True)
