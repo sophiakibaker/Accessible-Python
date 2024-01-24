@@ -4,7 +4,8 @@ It currently only contains a summary of features that may be relevant to dyslexi
 
 - Changing fonts, colours and text size in Google Colab
 - How to switch to and from dark and light mode in Google Colab
-- Setting up Syntax and Type checking in Google Colab (this is the closest equivalent to a spellchecker for Google Colab I have found as of yet)
+- Setting up Syntax and Type checking in Google Colab
+- Using autocomplete in Google Colab notebooks (this combined with Type checking is the closest equivalent to a spellchecker for Google Colab I have found as of yet)
 
 But the plan is to keep updating it with further resources as I find them.
 
