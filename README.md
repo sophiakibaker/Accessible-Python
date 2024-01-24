@@ -1,6 +1,6 @@
 This repository contains resources and materials to make Python programming more accessible to people with disabilities and/or neurodivergencies. 
 
-It currently only contains a summary of features that may be relevant to dyslexic, neurodivergent and visually impaired users for Google Colab, including:
+It currently contains a summary of features that may be relevant to dyslexic, neurodivergent and visually impaired Google Colab users, including:
 
 - Changing fonts, colours and text size in Google Colab
 - How to switch to and from dark and light mode in Google Colab
