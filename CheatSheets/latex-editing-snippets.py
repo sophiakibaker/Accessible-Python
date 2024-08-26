@@ -6,7 +6,7 @@ def removeabstracts(bibfile, printabstract=False):
   lines = refs.readlines()
   print(lines)
   
-  refs = open('bibfile','w')
+  refs = open(bibfile,'w')
   for line in lines:
       if "abstract" not in line:
           refs.write(line)
