@@ -11,5 +11,5 @@ def removeabstracts(bibfile, printabstract=False):
       if "abstract" not in line:
           refs.write(line)
       else:
-        if printabstract==True  
+        if printabstract==True:  
           print(line)
